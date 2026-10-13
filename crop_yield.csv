@@ -1,0 +1,52 @@
+Crop,Season,Location,Soil,Rainfall,Temperature,Humidity,Fertilizer,Area,Yield
+Rice,Kharif,North,Loamy,850,28,72,150,100,3.8
+Wheat,Rabi,North,Loamy,620,21,55,140,110,3.5
+Tomato,Summer,South,Sandy Loam,540,30,62,180,60,4.1
+Rice,Kharif,South,Clay,920,29,78,170,120,4.3
+Wheat,Rabi,West,Black,580,20,50,135,90,3.2
+Tomato,Summer,West,Loamy,610,31,65,190,70,4.4
+Rice,Kharif,East,Clay Loam,780,27,70,155,95,3.7
+Wheat,Rabi,North,Black,690,23,58,160,125,3.9
+Tomato,Summer,South,Loamy,500,29,60,175,55,3.8
+Rice,Kharif,East,Clay,980,30,80,185,130,4.5
+Wheat,Rabi,West,Loamy,640,22,54,145,100,3.6
+Tomato,Summer,North,Sandy Loam,570,28,63,165,65,4.0
+Rice,Kharif,South,Clay,730,26,68,150,85,3.5
+Wheat,Rabi,East,Black,710,24,60,170,115,4.0
+Tomato,Summer,West,Loamy,660,32,67,200,75,4.6
+Rice,Kharif,North,Loamy,890,28,74,160,105,4.0
+Wheat,Rabi,South,Black,600,21,52,130,95,3.3
+Tomato,Summer,East,Sandy Loam,530,30,61,185,62,4.0
+Rice,Kharif,West,Clay Loam,820,27,71,165,110,3.9
+Wheat,Rabi,North,Loamy,660,22,56,150,105,3.7
+Tomato,Summer,South,Loamy,590,29,64,180,68,4.2
+Rice,Kharif,East,Clay,940,29,79,180,125,4.4
+Wheat,Rabi,West,Black,570,20,49,125,88,3.1
+Tomato,Summer,North,Sandy Loam,620,31,66,195,72,4.5
+Rice,Kharif,South,Clay,760,27,69,158,98,3.7
+Wheat,Rabi,East,Loamy,700,23,59,155,112,3.9
+Tomato,Summer,West,Loamy,550,30,62,172,60,3.9
+Rice,Kharif,North,Clay Loam,860,28,73,168,108,4.0
+Wheat,Rabi,South,Black,630,22,55,142,97,3.5
+Tomato,Summer,East,Sandy Loam,600,29,63,188,70,4.2
+Rice,Kharif,West,Clay,910,29,77,178,118,4.2
+Wheat,Rabi,North,Loamy,675,23,57,152,103,3.8
+Tomato,Summer,South,Loamy,640,30,65,192,74,4.4
+Rice,Kharif,East,Clay,800,27,70,160,100,3.8
+Wheat,Rabi,West,Black,615,21,53,138,92,3.4
+Tomato,Summer,North,Sandy Loam,580,30,64,178,66,4.1
+Rice,Kharif,South,Clay Loam,950,30,80,182,128,4.5
+Wheat,Rabi,East,Loamy,720,24,61,165,118,4.1
+Tomato,Summer,West,Loamy,625,31,66,198,73,4.5
+Rice,Kharif,North,Loamy,840,27,72,162,102,3.9
+Wheat,Rabi,South,Black,590,21,51,132,89,3.2
+Tomato,Summer,East,Sandy Loam,560,29,62,180,64,4.0
+Rice,Kharif,West,Clay,875,28,75,170,112,4.1
+Wheat,Rabi,North,Loamy,650,22,56,148,101,3.7
+Tomato,Summer,South,Loamy,605,30,64,186,69,4.3
+Rice,Kharif,East,Clay,965,29,79,188,132,4.6
+Wheat,Rabi,West,Black,600,21,52,136,94,3.3
+Tomato,Summer,North,Sandy Loam,645,31,67,202,76,4.6
+Rice,Kharif,South,Clay Loam,790,27,69,156,97,3.7
+Wheat,Rabi,East,Loamy,705,23,60,158,114,4.0
+Tomato,Summer,West,Loamy,575,29,63,176,63,4.0
